@@ -1,0 +1,19 @@
+{
+  "project": "AI Personalized Learning Assistant",
+  "module": "AI Learning Style Analyzer",
+  "dataset_rows_after_cleaning": 915,
+  "dataset_columns": 24,
+  "target_column": "Learner",
+  "classes": [
+    "A",
+    "K",
+    "V"
+  ],
+  "best_model": "SVM RBF",
+  "selection_metric": "weighted F1-score",
+  "test_accuracy": 0.907103825136612,
+  "test_precision": 0.9137567466783898,
+  "test_recall": 0.907103825136612,
+  "test_f1_score": 0.9078592943336666,
+  "random_state": 42
+}
